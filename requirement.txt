@@ -1,8 +1,6 @@
-streamlit
-numpy
-tensorflow
-keras
-pillow
-huggingface-hub
-
-
+streamlit==1.49.1
+huggingface-hub==0.34.4
+tensorflow==2.18.0
+pillow==11.3.0
+numpy==2.3.2
+h5py==3.14.0
