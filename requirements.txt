@@ -1,8 +1,9 @@
-streamlit
-huggingface-hub
-tensorflow
-pillow
-numpy
-h5py
-requests
+streamlit==1.49.1
+huggingface-hub==0.34.4
+tensorflow==2.20.0
+pillow==11.3.0
+numpy==2.3.2
+h5py3.14.0
+requests==2.32.5
+
 
