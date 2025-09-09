@@ -4,3 +4,4 @@ tensorflow==2.18.0
 pillow==11.3.0
 numpy==2.3.2
 h5py==3.14.0
+requests==2.32.5
